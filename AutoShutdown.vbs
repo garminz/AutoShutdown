@@ -14,8 +14,6 @@ End If
 
 Set objShell = Nothing
 
-<<<<<<< HEAD
 Test1
 
 Test2
->>>>>>> test 2
